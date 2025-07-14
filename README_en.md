@@ -64,6 +64,13 @@ Read the full [Soulkey Manifesto](./soulkey_manifesto.md) for the ethical founda
 
 ---
 
+## 📬 Contact
+
+For ideas, collaborations, or questions, reach out to:  
+📧 **thamelion@protonmail.com**  
+
+---
+
 ## 🤍 License
 
 This project is licensed under [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
