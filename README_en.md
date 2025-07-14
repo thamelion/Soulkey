@@ -63,6 +63,7 @@ Read the full [Soulkey Manifesto](./soulkey_manifesto.md) for the ethical founda
 - `docs/` → Philosophy, soulkeeper architecture, technical implementation drafts.
 - `soulkey_manifesto.md` → Core manifesto and ethical vision.
 - `LICENSE.md` → Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+- `README.md` → Spanish version of the project.
 
 ---
 
