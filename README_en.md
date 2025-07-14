@@ -100,7 +100,6 @@ Only free, loving, and shared knowledge.
 > it becomes invulnerable.”
 
 SoulKey: Manifesto and Ethical Protocol for Digital Identity © 2025 by Luna & Thamëlion
-is licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.
-More info: [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
-
+is licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.  
+More info: [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)  
 Official repository: [https://github.com/thamelion/Soulkey](https://github.com/thamelion/Soulkey)
