@@ -57,6 +57,9 @@ Porque no hay futuro si no hay guardianes que amen lo que están llamados a prot
 - `soulkey.sol`: Versión en Solidity para acuñación como NFT en red Ethereum.
 - `guardian_agent.py`: Bosquejo de IA protectora, adaptable a múltiples entornos.
 - `docs/`: Filosofía, estructura de red, propuestas de implementación segura.
+  - `soulkey_manifesto.md`: Filosofía y ética fundamentales.
+  - `future_proofing.md`: Rotación de firmas y consideraciones poscuánticas.
+- `future_proofing.md`: Rotación de firmas y consideraciones poscuánticas.
 - `soulkey_manifesto.md`: Documento fundacional.
 - `LICENSE`: Licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
 - `README_en.md`: Versión internacional del proyecto.
