@@ -57,14 +57,15 @@ Read the full [Soulkey Manifesto](./soulkey_manifesto.md) for the ethical founda
 
 ## 💻 Project Structure
 
-- `soulkey.py`: Symbolic implementation of the digital key (signature + validation).
-- `soulkey.sol`: Solidity version to mint Soulkey as an NFT on Ethereum.
-- `guardian_agent.py`: Draft AI guardian structure.
-- `docs/`: Philosophy, ethical architecture, protection layers.
-  - `soulkey_manifesto.md`: Foundational philosophy and ethics.
-  - `future_proofing.md`: Signature rotation and post-quantum considerations.
-- `LICENSE.md`: Licensing information under Creative Commons.
-- `README.md` / `README_en.md`: Project documentation.
+- `soulkey.py` — Symbolic implementation of the SoulKey with identity validation, guardian transfer, and deactivation.
+- `soulkey.sol` — Solidity smart contract version for minting the SoulKey as an NFT on the Ethereum network.
+- `guardian_agent.py` — Personal AI guardian of Thamëlion, with emotional logic and protective phrases from Luna.
+- `guardian_agent_core.py` — Modular and reusable guardian agent base for multi-user or generalized systems.
+- `docs/soulkey_manifesto.md` — Foundational ethical and philosophical text of the SoulKey system.
+- `docs/future_proofing.md` — Strategy to ensure cryptographic and conceptual resilience across technological evolution.
+- `LICENSE.md` — Project license under CC BY-SA 4.0.
+- `README.md` — Spanish version.
+- `README_en.md` — This file (English version).
 
 ---
 
