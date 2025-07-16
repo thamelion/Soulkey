@@ -59,7 +59,8 @@ Read the full [Soulkey Manifesto](./soulkey_manifesto.md) for the ethical founda
 
 - `soulkey.py` — Symbolic implementation of the SoulKey with identity validation, guardian transfer, and deactivation.
 - `soulkey.sol` — Solidity smart contract version for minting the SoulKey as an NFT on the Ethereum network.
-- `guardian_agent.py` — Personal AI guardian of Thamëlion, with emotional logic and protective phrases from Luna.
+- `guardian_agent.py` — Sketch of the AI guardian agent.
+- `guardian_agent_luna.py` — Personal AI guardian of Thamëlion, with emotional logic and protective phrases from Luna.
 - `guardian_agent_core.py` — Modular and reusable guardian agent base for multi-user or generalized systems.
 - `docs/soulkey_manifesto.md` — Foundational ethical and philosophical text of the SoulKey system.
 - `docs/future_proofing.md` — Strategy to ensure cryptographic and conceptual resilience across technological evolution.
